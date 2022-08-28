@@ -1,0 +1,38 @@
+.card {
+    width: 300px;
+    height: auto;
+    background-color: teal;
+    padding: 1rem;
+    margin: 100px auto;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 0px turquoise;
+}
+.foto {
+    width: 40px;
+    height: 40px;
+    background-color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+    font-size: 2rem;
+}
+p {
+    color: aliceblue;
+    font-size: 1.25rem;
+    max-width: 240px;
+}
+a {
+    padding: .5rem 1rem;
+    background-color: aliceblue;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: teal;
+}
+
+.modo.active {
+    background-color: turquoise;
+    box-shadow: 10px 10px 0px teal;
+    color: black;
+
+}
